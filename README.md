@@ -16,6 +16,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prrince0/DSA-leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -24,6 +25,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -48,5 +50,10 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prrince0/DSA-leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 <!---LeetCode Topics End-->
