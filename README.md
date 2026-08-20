@@ -61,4 +61,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
