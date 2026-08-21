@@ -6,6 +6,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -64,5 +66,14 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0328-odd-even-linked-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
