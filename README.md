@@ -17,6 +17,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0896-monotonic-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0896-monotonic-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
