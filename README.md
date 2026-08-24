@@ -51,6 +51,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/prrince0/DSA-leetcode-/tree/main/1952-three-divisors/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -64,6 +65,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prrince0/DSA-leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -132,4 +134,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
