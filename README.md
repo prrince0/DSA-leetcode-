@@ -8,12 +8,14 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/prrince0/DSA-leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0165-compare-version-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
 | [0709-to-lower-case](https://github.com/prrince0/DSA-leetcode-/tree/main/0709-to-lower-case/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/prrince0/DSA-leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
