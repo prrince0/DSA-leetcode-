@@ -25,6 +25,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0896-monotonic-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -50,6 +51,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -108,6 +110,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -177,4 +180,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
