@@ -11,22 +11,33 @@
  */
 class Solution {
 public:
-    int diameter = 0;
-
-    int height(TreeNode* root) {
-        if (root == NULL)
-            return 0;
-
-        int leftHeight = height(root->left);
-        int rightHeight = height(root->right);
-
-        diameter = max(diameter, leftHeight + rightHeight);
-
-        return 1 + max(leftHeight, rightHeight);
-    }
-
     int diameterOfBinaryTree(TreeNode* root) {
-        height(root);
+        if(root == nullptr){
+        return 0;
+        }
+        stack<pair<TreeNode*,bool>>st;
+        map<TreeNode*,int>height;
+        st.push({root,false});
+        int diameter = 0;
+        while(!st.empty()){
+            auto[curr,visited] = st.top();
+            st.pop();
+            if(curr == nullptr){
+                continue;
+            }
+            if(!visited){
+                st.push({curr,true});
+                st.push({curr -> right,false});
+                st.push({curr -> left,false});
+            }
+            else{
+                int leftht = height[curr->left];
+                int rightht = height[curr->right];
+                diameter = max(diameter,leftht+rightht);
+                height[curr] = 1+max(leftht,rightht);
+            }
+               
+        }
         return diameter;
     }
 };
