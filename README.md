@@ -176,11 +176,13 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
