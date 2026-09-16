@@ -31,6 +31,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -229,6 +230,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
