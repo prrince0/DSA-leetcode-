@@ -182,6 +182,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/prrince0/DSA-leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -190,6 +191,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -199,12 +201,14 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/prrince0/DSA-leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/prrince0/DSA-leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
