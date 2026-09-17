@@ -51,6 +51,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/prrince0/DSA-leetcode-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -186,6 +187,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -196,6 +198,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -214,6 +217,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
