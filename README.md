@@ -25,6 +25,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0835-image-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0835-image-overlap/) | Medium |
 | [0896-monotonic-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/prrince0/DSA-leetcode-/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -127,6 +128,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
@@ -187,6 +189,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0098-validate-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/prrince0/DSA-leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -224,6 +227,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0098-validate-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/prrince0/DSA-leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -274,6 +278,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
