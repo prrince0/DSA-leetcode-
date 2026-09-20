@@ -21,6 +21,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
