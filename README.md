@@ -111,6 +111,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -131,6 +132,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +201,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -213,6 +216,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -237,6 +241,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -281,4 +286,5 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
