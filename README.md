@@ -201,6 +201,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0450-delete-node-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -218,6 +219,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -231,6 +233,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0102-binary-tree-level-order-traversal](https://github.com/prrince0/DSA-leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0450-delete-node-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
