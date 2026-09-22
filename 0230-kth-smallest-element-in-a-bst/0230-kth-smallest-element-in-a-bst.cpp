@@ -10,10 +10,8 @@
  * right(right) {}
  * };
  */
-class Solution {
-public:
-    vector<int> nums;
-    vector<int> toSortedArray(TreeNode* root) {
+ /*
+ vector<int> toSortedArray(TreeNode* root) {
         if (root == nullptr) {
             return nums;
         }
@@ -22,8 +20,25 @@ public:
         toSortedArray(root->right);
         return nums;
     }
+*/class Solution {
+public:
+    int ans = 0;
+    int count = 0;
+    void inorder(TreeNode* root,int k) {
+       
+        if (root == nullptr) {
+            return;
+        }
+        inorder(root->left, k);
+        count++;
+        if(count == k){
+            ans = root ->val;
+        }
+        inorder(root->right, k);
+    }
     int kthSmallest(TreeNode* root, int k) {
-        toSortedArray(root);
-        return nums[k - 1];
+        //toSortedArray(root);
+        inorder(root,k);
+        return ans;
     }
 };
