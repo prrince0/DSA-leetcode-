@@ -11,19 +11,23 @@
  */
 class Solution {
 public:
-    int ans = INT_MIN;
-    int find(TreeNode*root){
-        if(root == nullptr){
-           return 0;
+    int maxsum=INT_MIN;
+    int solve(TreeNode* root) {
+        if (root == nullptr) {
+            return 0;
         }
-        int left = max(0,find(root -> left));
-        int right = max(0,find(root -> right));
-        int current = left+right+root->val;
-        ans = max(ans, current);
-        return root->val+max(left,right);
+        int l = solve(root->left);
+        int r = solve(root->right);
+        int Root = root->val;
+        // take max of left & right;
+        int lr = max(l, r) + root->val;
+        // found tree with lr
+        int with_lr = l + r + root->val;
+        maxsum = max({maxsum, Root, lr, with_lr});
+        return max(lr, Root);
     }
     int maxPathSum(TreeNode* root) {
-        find(root);
-        return ans;
+        solve(root);
+        return maxsum;
     }
 };
