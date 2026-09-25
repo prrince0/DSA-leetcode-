@@ -28,6 +28,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0018-4sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0018-4sum/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0835-image-overlap/) | Medium |
 | [0896-monotonic-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/prrince0/DSA-leetcode-/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -57,6 +58,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/prrince0/DSA-leetcode-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -281,6 +283,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
