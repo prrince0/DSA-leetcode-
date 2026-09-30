@@ -25,6 +25,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1768-merge-strings-alternately](https://github.com/prrince0/DSA-leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -71,6 +72,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrince0/DSA-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -126,6 +128,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prrince0/DSA-leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Greedy
@@ -205,6 +208,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
