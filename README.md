@@ -15,6 +15,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0165-compare-version-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
 | [0415-add-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/0415-add-strings/) | Easy |
@@ -336,6 +337,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -362,7 +364,12 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
