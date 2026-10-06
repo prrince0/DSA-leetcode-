@@ -22,6 +22,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0415-add-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/prrince0/DSA-leetcode-/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1446-consecutive-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1446-consecutive-characters/) | Easy |
@@ -144,6 +145,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
@@ -361,6 +363,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0020-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -372,6 +375,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
