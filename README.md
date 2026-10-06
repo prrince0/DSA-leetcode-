@@ -383,4 +383,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/prrince0/DSA-leetcode-/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
