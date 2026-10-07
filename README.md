@@ -20,6 +20,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0032-longest-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0165-compare-version-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0415-add-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/prrince0/DSA-leetcode-/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
@@ -283,6 +284,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prrince0/DSA-leetcode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
@@ -389,6 +391,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
