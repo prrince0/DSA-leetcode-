@@ -10,6 +10,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/prrince0/DSA-leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/prrince0/DSA-leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prrince0/DSA-leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/prrince0/DSA-leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -366,6 +368,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/prrince0/DSA-leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
