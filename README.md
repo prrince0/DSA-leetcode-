@@ -397,4 +397,5 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/prrince0/DSA-leetcode-/tree/main/0176-second-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/prrince0/DSA-leetcode-/tree/main/0584-find-customer-referee/) | Easy |
+| [0620-not-boring-movies](https://github.com/prrince0/DSA-leetcode-/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
