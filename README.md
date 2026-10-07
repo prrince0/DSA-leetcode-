@@ -37,6 +37,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3913-sort-vowels-by-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2733-neither-minimum-nor-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3913-sort-vowels-by-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3913-sort-vowels-by-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
