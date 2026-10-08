@@ -37,7 +37,7 @@ public:
 
         
         if (s[i] == '(' || s[i] == ')') {
-            solve(s, i + 1, curr, count);
+         solve(s, i + 1, curr, count);
         }
     }
 
