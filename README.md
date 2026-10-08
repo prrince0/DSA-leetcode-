@@ -46,6 +46,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0018-4sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0018-4sum/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/prrince0/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0835-image-overlap/) | Medium |
@@ -79,6 +80,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/prrince0/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
@@ -111,6 +113,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0018-4sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -175,6 +178,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -226,6 +230,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -401,4 +406,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0176-second-highest-salary](https://github.com/prrince0/DSA-leetcode-/tree/main/0176-second-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/prrince0/DSA-leetcode-/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/prrince0/DSA-leetcode-/tree/main/0620-not-boring-movies/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
