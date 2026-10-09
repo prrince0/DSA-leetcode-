@@ -29,6 +29,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1446-consecutive-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1446-consecutive-characters/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prrince0/DSA-leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/prrince0/DSA-leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
@@ -157,6 +158,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prrince0/DSA-leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -379,6 +381,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prrince0/DSA-leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/prrince0/DSA-leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -393,6 +396,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prrince0/DSA-leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Backtracking
