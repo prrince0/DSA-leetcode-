@@ -55,6 +55,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0904-fruit-into-baskets](https://github.com/prrince0/DSA-leetcode-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/prrince0/DSA-leetcode-/tree/main/1046-last-stone-weight/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -225,6 +226,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/prrince0/DSA-leetcode-/tree/main/1046-last-stone-weight/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
