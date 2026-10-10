@@ -62,6 +62,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -118,6 +119,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -162,6 +164,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +197,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrince0/DSA-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -221,6 +225,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
