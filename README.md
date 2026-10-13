@@ -77,6 +77,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prrince0/DSA-leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prrince0/DSA-leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prrince0/DSA-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -127,6 +128,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2733-neither-minimum-nor-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
