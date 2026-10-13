@@ -156,6 +156,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/prrince0/DSA-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -194,6 +195,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/prrince0/DSA-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
