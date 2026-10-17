@@ -78,6 +78,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prrince0/DSA-leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prrince0/DSA-leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prrince0/DSA-leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prrince0/DSA-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -106,6 +107,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prrince0/DSA-leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prrince0/DSA-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2733-neither-minimum-nor-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Math
