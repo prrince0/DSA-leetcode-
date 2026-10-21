@@ -41,6 +41,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Array
 | Problem Name | Difficulty |
