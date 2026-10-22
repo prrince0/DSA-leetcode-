@@ -86,6 +86,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [3875-construct-uniform-parity-array-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/prrince0/DSA-leetcode-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
