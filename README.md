@@ -38,6 +38,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/prrince0/DSA-leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -147,6 +148,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0836-rectangle-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/prrince0/DSA-leetcode-/tree/main/1952-three-divisors/) | Easy |
+| [2409-count-days-spent-together](https://github.com/prrince0/DSA-leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prrince0/DSA-leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
