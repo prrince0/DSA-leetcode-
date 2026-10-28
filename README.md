@@ -444,6 +444,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/prrince0/DSA-leetcode-/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/prrince0/DSA-leetcode-/tree/main/0177-nth-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/prrince0/DSA-leetcode-/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/prrince0/DSA-leetcode-/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/prrince0/DSA-leetcode-/tree/main/0596-classes-with-at-least-5-students/) | Easy |
