@@ -49,6 +49,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0018-4sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0018-4sum/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prrince0/DSA-leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/prrince0/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -394,6 +395,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prrince0/DSA-leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
