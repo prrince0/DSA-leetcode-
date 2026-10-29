@@ -450,6 +450,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0584-find-customer-referee](https://github.com/prrince0/DSA-leetcode-/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/prrince0/DSA-leetcode-/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/prrince0/DSA-leetcode-/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/prrince0/DSA-leetcode-/tree/main/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/prrince0/DSA-leetcode-/tree/main/0620-not-boring-movies/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
