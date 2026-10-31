@@ -9,6 +9,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0018-4sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/prrince0/DSA-leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/prrince0/DSA-leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String
@@ -137,6 +138,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0148-sort-list](https://github.com/prrince0/DSA-leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -258,6 +260,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/prrince0/DSA-leetcode-/tree/main/1046-last-stone-weight/) | Easy |
@@ -485,4 +488,12 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
