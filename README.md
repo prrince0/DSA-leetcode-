@@ -72,6 +72,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrince0/DSA-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prrince0/DSA-leetcode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1701-average-waiting-time](https://github.com/prrince0/DSA-leetcode-/tree/main/1701-average-waiting-time/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -211,6 +212,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/prrince0/DSA-leetcode-/tree/main/0415-add-strings/) | Easy |
+| [1701-average-waiting-time](https://github.com/prrince0/DSA-leetcode-/tree/main/1701-average-waiting-time/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
