@@ -336,6 +336,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prrince0/DSA-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -349,6 +350,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prrince0/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -503,4 +506,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
