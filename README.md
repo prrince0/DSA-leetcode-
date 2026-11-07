@@ -65,6 +65,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/prrince0/DSA-leetcode-/tree/main/1046-last-stone-weight/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prrince0/DSA-leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -349,6 +350,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0301-remove-invalid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prrince0/DSA-leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -407,6 +409,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0835-image-overlap/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prrince0/DSA-leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
