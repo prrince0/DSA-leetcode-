@@ -67,6 +67,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1046-last-stone-weight](https://github.com/prrince0/DSA-leetcode-/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prrince0/DSA-leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/prrince0/DSA-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -289,6 +290,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/prrince0/DSA-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3913-sort-vowels-by-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
@@ -337,6 +339,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/prrince0/DSA-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -354,6 +357,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prrince0/DSA-leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/prrince0/DSA-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -388,6 +392,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prrince0/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/prrince0/DSA-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Prefix Sum
@@ -413,6 +418,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0835-image-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0835-image-overlap/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prrince0/DSA-leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/prrince0/DSA-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
