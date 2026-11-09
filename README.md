@@ -521,4 +521,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/prrince0/DSA-leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/prrince0/DSA-leetcode-/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 <!---LeetCode Topics End-->
