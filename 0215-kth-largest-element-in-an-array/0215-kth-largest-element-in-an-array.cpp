@@ -7,8 +7,8 @@ public:
             pq.push(nums[i]);
         }
 
-       int count = 1;
-       while(count < k){
+       int count = 0;
+       while(count+1 < k){
         pq.pop();
         count++;
        } 
