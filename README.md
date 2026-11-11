@@ -173,6 +173,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prrince0/DSA-leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prrince0/DSA-leetcode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/prrince0/DSA-leetcode-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/prrince0/DSA-leetcode-/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -209,6 +210,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prrince0/DSA-leetcode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/prrince0/DSA-leetcode-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
