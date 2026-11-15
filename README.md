@@ -72,6 +72,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrince0/DSA-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prrince0/DSA-leetcode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1701-average-waiting-time](https://github.com/prrince0/DSA-leetcode-/tree/main/1701-average-waiting-time/) | Medium |
@@ -166,6 +167,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0836-rectangle-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/prrince0/DSA-leetcode-/tree/main/1952-three-divisors/) | Easy |
 | [2409-count-days-spent-together](https://github.com/prrince0/DSA-leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
@@ -406,6 +408,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrince0/DSA-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String Matching
@@ -434,6 +437,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0032-longest-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prrince0/DSA-leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
