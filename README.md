@@ -279,6 +279,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0239-sliding-window-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/prrince0/DSA-leetcode-/tree/main/1046-last-stone-weight/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -323,6 +324,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -383,6 +385,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0617-merge-two-binary-trees](https://github.com/prrince0/DSA-leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/prrince0/DSA-leetcode-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -445,6 +448,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prrince0/DSA-leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Quickselect
@@ -522,10 +526,12 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
