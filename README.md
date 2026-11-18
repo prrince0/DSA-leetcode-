@@ -541,4 +541,5 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/prrince0/DSA-leetcode-/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
+| [1226-the-dining-philosophers](https://github.com/prrince0/DSA-leetcode-/tree/main/1226-the-dining-philosophers/) | Medium |
 <!---LeetCode Topics End-->
