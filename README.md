@@ -38,6 +38,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/prrince0/DSA-leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/prrince0/DSA-leetcode-/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/prrince0/DSA-leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
