@@ -71,6 +71,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1091-shortest-path-in-binary-matrix](https://github.com/prrince0/DSA-leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prrince0/DSA-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/prrince0/DSA-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -171,6 +172,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0836-rectangle-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/prrince0/DSA-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/prrince0/DSA-leetcode-/tree/main/1952-three-divisors/) | Easy |
@@ -414,6 +416,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prrince0/DSA-leetcode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prrince0/DSA-leetcode-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/prrince0/DSA-leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -532,11 +535,13 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
