@@ -94,6 +94,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prrince0/DSA-leetcode-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prrince0/DSA-leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prrince0/DSA-leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prrince0/DSA-leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -144,6 +145,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prrince0/DSA-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrince0/DSA-leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prrince0/DSA-leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prrince0/DSA-leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [2409-count-days-spent-together](https://github.com/prrince0/DSA-leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prrince0/DSA-leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prrince0/DSA-leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prrince0/DSA-leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prrince0/DSA-leetcode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -194,6 +197,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1952-three-divisors](https://github.com/prrince0/DSA-leetcode-/tree/main/1952-three-divisors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prrince0/DSA-leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prrince0/DSA-leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/prrince0/DSA-leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -267,6 +271,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/prrince0/DSA-leetcode-/tree/main/1952-three-divisors/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrince0/DSA-leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prrince0/DSA-leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
