@@ -62,6 +62,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
+| [0739-daily-temperatures](https://github.com/prrince0/DSA-leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/prrince0/DSA-leetcode-/tree/main/0835-image-overlap/) | Medium |
 | [0896-monotonic-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/prrince0/DSA-leetcode-/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -473,6 +474,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0739-daily-temperatures](https://github.com/prrince0/DSA-leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -556,4 +558,8 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/prrince0/DSA-leetcode-/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 | [1226-the-dining-philosophers](https://github.com/prrince0/DSA-leetcode-/tree/main/1226-the-dining-philosophers/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/prrince0/DSA-leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
