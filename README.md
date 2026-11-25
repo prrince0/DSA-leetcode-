@@ -60,6 +60,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0239-sliding-window-maximum](https://github.com/prrince0/DSA-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/prrince0/DSA-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
 | [0739-daily-temperatures](https://github.com/prrince0/DSA-leetcode-/tree/main/0739-daily-temperatures/) | Medium |
@@ -115,6 +116,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0128-longest-consecutive-sequence](https://github.com/prrince0/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/prrince0/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0290-word-pattern](https://github.com/prrince0/DSA-leetcode-/tree/main/0290-word-pattern/) | Easy |
+| [0496-next-greater-element-i](https://github.com/prrince0/DSA-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/prrince0/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/prrince0/DSA-leetcode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
@@ -474,6 +476,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0496-next-greater-element-i](https://github.com/prrince0/DSA-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/prrince0/DSA-leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrince0/DSA-leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -561,5 +564,6 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/prrince0/DSA-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/prrince0/DSA-leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
