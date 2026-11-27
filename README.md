@@ -82,6 +82,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prrince0/DSA-leetcode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1701-average-waiting-time](https://github.com/prrince0/DSA-leetcode-/tree/main/1701-average-waiting-time/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -124,6 +125,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrince0/DSA-leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrince0/DSA-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/prrince0/DSA-leetcode-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prrince0/DSA-leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -160,6 +162,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prrince0/DSA-leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/prrince0/DSA-leetcode-/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/prrince0/DSA-leetcode-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prrince0/DSA-leetcode-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -299,6 +302,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrince0/DSA-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/prrince0/DSA-leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/prrince0/DSA-leetcode-/tree/main/1046-last-stone-weight/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prrince0/DSA-leetcode-/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prrince0/DSA-leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
