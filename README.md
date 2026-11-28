@@ -52,6 +52,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/prrince0/DSA-leetcode-/tree/main/0018-4sum/) | Medium |
+| [0078-subsets](https://github.com/prrince0/DSA-leetcode-/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prrince0/DSA-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prrince0/DSA-leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/prrince0/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -209,6 +210,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/prrince0/DSA-leetcode-/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/prrince0/DSA-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/prrince0/DSA-leetcode-/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/prrince0/DSA-leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -511,6 +513,7 @@ LeetCode DSA solutions in C++ with detailed explanations and complexity analysis
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/prrince0/DSA-leetcode-/tree/main/0078-subsets/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/prrince0/DSA-leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Database
 | Problem Name | Difficulty |
